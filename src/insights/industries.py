@@ -4,7 +4,7 @@ from src.insights.jobs import read
 
 def get_unique_industries(path: str) -> List[str]:
     data = read(path)
-    industries = [job["industry"] for job in data]
+    industries = [jobs["industry"] for jobs in data if ["industry"]]
     return set(industries)
 
 
