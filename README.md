@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Procurando emprego com Pytho
+
+## Aplicação
+Está aplicação conta com funções que são capazes de ler informações em arquivos para reenderizar oportunidades de emprego.
+
+## Tecnologias
+Este projeto foi construído utilizando as seguintes tecnologias
+
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+---
+## Instalação
+Crie e habilite o ambiente virtual: `python3 -m venv .venv && source .venv/bin/activate`
+
+Instale as dependências: `python3 -m pip install -r dev-requirements.txt`
+
+Crie um relatório simples ou completo: `python3 challenges/main.py`
+
+Suba a aplicação: `python3 -m flask run`
+
+Para rodar os testes: `python3 -m pytest`
