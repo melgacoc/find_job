@@ -1,4 +1,4 @@
-# Procurando emprego com Pytho
+# Procurando emprego com Python
 
 ## Aplicação
 Está aplicação conta com funções que são capazes de ler informações em arquivos para reenderizar oportunidades de emprego.
